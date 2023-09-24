@@ -8,6 +8,7 @@
 
 > ❤️ instagram [jinxx6_6](https://instagram.com/jinxx6_6?igshid=MzNlNGNkZWQ4Mg==)
 
+> 💚 Website [Jinxx6_6.free.nf](https://jinxx66.free.nf/)
 
 > [!NOTE]
 > All projects files password protected.
