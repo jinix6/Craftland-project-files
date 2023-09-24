@@ -14,4 +14,8 @@
 > All projects files password protected.
 
 
-<h1 style="color: red;" id="y">FREE FIRE</h1>
+<img
+  src="https://dl.dir.freefiremobile.com/common/web_event/crafactory4.4/images/logo_template.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
