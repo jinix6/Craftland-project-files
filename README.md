@@ -13,4 +13,5 @@
 > [!NOTE]
 > All projects files password protected.
 
+<span style="color: blue;">This text will be blue</span>
 
