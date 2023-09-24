@@ -13,6 +13,5 @@
 > [!NOTE]
 > All projects files password protected.
 
-```html
-   <span style="color: green"> Some green text </span>
-```
+
+<h1 style="color: red;" id="y">FREE FIRE</h1>
